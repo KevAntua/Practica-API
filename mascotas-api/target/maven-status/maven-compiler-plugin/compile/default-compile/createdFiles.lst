@@ -1,0 +1,5 @@
+com\veterinaria\mascotas\entitys\Mascota.class
+com\veterinaria\mascotas\MascotasApiApplication.class
+com\veterinaria\mascotas\config\SwaggerConfig.class
+com\veterinaria\mascotas\rest\MascotasREST.class
+com\veterinaria\mascotas\dao\MascotasDAO.class
